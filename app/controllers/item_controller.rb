@@ -11,6 +11,7 @@ class ItemController < ApplicationController
     @stock = item.stock
    #ddsdsasav
     a = 'sa'
+    a = 'hello world'
   end
 
 end
