@@ -11,8 +11,14 @@ class ItemController < ApplicationController
     @stock = item.stock
    #ddsdsasav
     a = 'sa'
+<<<<<<< HEAD
     a = 'hello world'
     jo ='is here'
+=======
+    a = 'hi there'
+    b = 'hello from jo'
+    
+>>>>>>> jo_new_feature
   end
 
 end
