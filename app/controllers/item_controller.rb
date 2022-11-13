@@ -12,6 +12,8 @@ class ItemController < ApplicationController
    #ddsdsasav
     a = 'sa'
     a = 'hi there'
+    b = 'hello from jo'
+    
   end
 
 end
