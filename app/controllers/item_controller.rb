@@ -14,6 +14,7 @@ class ItemController < ApplicationController
     a = 'hi there'
     b = 'hello from jo'
     thefuck = 'dsd'
+    xz='xas'
   end
 
 end
