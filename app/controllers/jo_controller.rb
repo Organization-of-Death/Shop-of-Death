@@ -1,0 +1,2 @@
+class JoController < ApplicationController
+end

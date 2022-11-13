@@ -11,10 +11,11 @@ class ItemController < ApplicationController
     @stock = item.stock
    #ddsdsasav
     a = 'sa'
-    a = 'hi there'
-    b = 'hello from jo'
     thefuck = 'dsd'
     xz='xas'
+    b = 'hello from jo'
+    a = 'hi there'
+    b = 'hello from jo'
   end
 
 end
