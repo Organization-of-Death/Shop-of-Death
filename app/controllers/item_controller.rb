@@ -9,7 +9,8 @@ class ItemController < ApplicationController
     @name = item.name
     @price = item.price
     @stock = item.stock
-
+   #ddsdsasav
+    a = 'sa'
   end
 
 end
